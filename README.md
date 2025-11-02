@@ -4,4 +4,4 @@ flexible depth DGP
     drift detection
 2 flexible depth:
     add layer/cut layer
-    retrain
+    retrain: X iteration
